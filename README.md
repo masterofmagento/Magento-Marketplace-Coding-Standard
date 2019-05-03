@@ -63,6 +63,8 @@ $ vendor/bin/phpcs /path/to/your/extension --standard=MEQP1 --severity=10 --exte
 
 > Notice: PHP and Composer should be accessible globally.
 
+> Note : Don't forget to change your php path in composer.json file and if your CLI is not working then use Cygwin command line.
+
 ## Contribution
 
 Please feel free to contribute new sniffs or any fixes or improvements for the existing ones.
